@@ -1,4 +1,4 @@
-Aaimport type { JSONOutput } from 'typedoc';
+import type { JSONOutput } from 'typedoc';
 import {
 	isArrayType,
 	isConditionalType,
